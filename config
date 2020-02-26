@@ -45,7 +45,7 @@ set $inactive-text-color #676E7D
 set $urgent-bg-color     #E53935
 
 
-bindsym $mod+d exec rofi -show run -font "System San Francisco Display 13"
+bindsym $mod+d exec rofi -show run -config ~/.config/i3/rofi
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
