@@ -1,7 +1,4 @@
-Links:
-https://github.com/supermarin/YosemiteSanFranciscoFont
-and copy to ~/.fonts/
-
+copy .fonts to ~/.fonts/
 
 http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html
 
