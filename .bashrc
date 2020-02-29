@@ -95,6 +95,8 @@ alias dc='docker-compose'
 alias code='cd /home/pater/projects'
 alias poka='xdg-open ./'
 alias sc='scrot -s '\''/tmp/%F_%T_$wx$h.png'\'' -e '\''xclip -selection clipboard -target image/png -i $f'\'''
+alias cpi='xclip -i'
+alias cpo='xclip -o'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
